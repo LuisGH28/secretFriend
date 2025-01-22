@@ -12,19 +12,15 @@ The game tries to enter a list of friends and when you press the button that say
 
 # Structure
 
-
-Project: Secret Santa
-
+```plaintext
 File Structure:
-amigo-secreto/
+secretFriend/
 ├── assets/                  # Folder containing static resources
- │   └── amigo-secreto.png    # Representative image of the project
+│   └── amigo-secreto.png    # Representative image of the project
 ├── index.html               # Main file containing the HTML structure
 ├── style.css                # CSS file for the project's styling
 └── app.js                   # JavaScript file for the project's logic
-
-
-
+```
 
 # Technologies Used
 
